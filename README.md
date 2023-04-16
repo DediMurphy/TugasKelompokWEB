@@ -1,2 +1,5 @@
-# TugasKelompokWEB
-ini merupakan tugas akhir matkul web dikerjakan dengan berkelompok
+# Kelompok 8 WEB Sekolah
+dikerjakan oleh 5 tim 
+language : HTML,CSS,Javascript
+tools : VS Code
+
